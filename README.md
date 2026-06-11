@@ -19,7 +19,8 @@ Full Stack AI/ML Engineer passionate about building intelligent systems that sol
 - ✉️ Reach me at [zar.safari@ucalgary.ca](mailto:zar.safari@ucalgary.ca)/)
 
 - 📚 Publications: 
-1. [Transfer Learning for Multi-Lead ECG Analysis in Cardiac Arrest Risk Classification](https://caiac.pubpub.org/pub/kx8er0ej/release/2) 2.[End-to-End Digital Twin System for Cardiac Arrest Risk Detection](Accepted for publication at IEEE AIHC 2026)
+1. [Transfer Learning for Multi-Lead ECG Analysis in Cardiac Arrest Risk Classification](https://caiac.pubpub.org/pub/kx8er0ej/release/2)
+2. 2.End-to-End Digital Twin System for Cardiac Arrest Risk Detection(Accepted for publication at IEEE AIHC 2026)
 
 
 ## Skills
