@@ -16,7 +16,7 @@ Full Stack AI/ML Engineer passionate about building intelligent systems that sol
 - 📍 Based in Vancouver, BC, Canada
 - 🎓 M.Sc. Software & ML Engineering · University of Calgary
 - 🌐 Portfolio: [zahrasafari91.github.io/my-website](http://zahrasafari91.github.io/my-website/)
-- ✉️ Reach me at [zar.safari@ucalgary.ca](mailto:zar.safari@ucalgary.ca)/)
+- ✉️ Reach me at [zar.safari@ucalgary.ca](mailto:zar.safari@ucalgary.ca)
 
 - 📚 Publications: 
 1. [Transfer Learning for Multi-Lead ECG Analysis in Cardiac Arrest Risk Classification](https://caiac.pubpub.org/pub/kx8er0ej/release/2)
