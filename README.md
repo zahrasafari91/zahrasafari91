@@ -1,7 +1,7 @@
 # Hi, my name is Zar
 
 
-Full Stack Software & AI/ML Engineer passionate about building intelligent systems that solve real-world problems.
+Full Stack AI/ML Engineer passionate about building intelligent systems that solve real-world problems.
 
 
  ## What I've Built
