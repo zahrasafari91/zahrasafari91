@@ -18,7 +18,7 @@ Full Stack AI/ML Engineer passionate about building intelligent systems that sol
 
 - 📍 Based in Vancouver, BC, Canada
 - 🎓 M.Sc. Software & ML Engineering · University of Calgary
-- 🌐 Portfolio: [zahrasafari91.github.io/my-website](http://zahrasafari91.github.io/my-website/)
+- 🌐 Portfolio: [zahrasafari91.github.io/zar-portfolio](http://zahrasafari91.github.io/zar-portfolio/)
 - ✉️ Reach me at [zar.safari@ucalgary.ca](mailto:zar.safari@ucalgary.ca)
 
 - 📚 Publications: 
