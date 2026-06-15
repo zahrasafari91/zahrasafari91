@@ -23,7 +23,7 @@ Full Stack AI/ML Engineer who enjoys turning ideas into intelligent software and
 
 - 📚 Publications: 
 1. [Transfer Learning for Multi-Lead ECG Analysis in Cardiac Arrest Risk Classification](https://github.com/zahrasafari91/cardiac-arrest-risk-prediction)
-2. End-to-End Digital Twin System for Cardiac Arrest Risk Detection(Accepted for publication at IEEE AIHC 2026)
+2. [End-to-End Digital Twin System for Cardiac Arrest Risk Detection(Accepted for publication at IEEE AIHC 2026)](https://github.com/zahrasafari91/end-to-end-dt-system)
 
 
 
