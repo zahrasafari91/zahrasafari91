@@ -37,7 +37,6 @@ Full Stack AI/ML Engineer who enjoys turning ideas into intelligent software and
 
 
 
-### Let's Connect
 
 
 Feel free to reach out on LinkedIn to discuss AI, software engineering, research, or potential collaborations.
