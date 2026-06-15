@@ -1,4 +1,4 @@
-# Hi, my name is Zar
+# Hi, I am Zar
 
 
 Full Stack AI/ML Engineer who enjoys turning ideas into intelligent software and real-world solutions.
